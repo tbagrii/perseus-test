@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/perseus-test/static/css/main.0a5208eb.chunk.css",
+    "main.js": "/perseus-test/static/js/main.9d84758e.chunk.js",
+    "main.js.map": "/perseus-test/static/js/main.9d84758e.chunk.js.map",
+    "runtime-main.js": "/perseus-test/static/js/runtime-main.9f9da995.js",
+    "runtime-main.js.map": "/perseus-test/static/js/runtime-main.9f9da995.js.map",
+    "static/js/2.c39a2b7a.chunk.js": "/perseus-test/static/js/2.c39a2b7a.chunk.js",
+    "static/js/2.c39a2b7a.chunk.js.map": "/perseus-test/static/js/2.c39a2b7a.chunk.js.map",
+    "static/js/3.4b665c48.chunk.js": "/perseus-test/static/js/3.4b665c48.chunk.js",
+    "static/js/3.4b665c48.chunk.js.map": "/perseus-test/static/js/3.4b665c48.chunk.js.map",
+    "index.html": "/perseus-test/index.html",
+    "static/css/main.0a5208eb.chunk.css.map": "/perseus-test/static/css/main.0a5208eb.chunk.css.map",
+    "static/js/2.c39a2b7a.chunk.js.LICENSE.txt": "/perseus-test/static/js/2.c39a2b7a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/perseus-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f9da995.js",
+    "static/js/2.c39a2b7a.chunk.js",
+    "static/css/main.0a5208eb.chunk.css",
+    "static/js/main.9d84758e.chunk.js"
+  ]
+}
